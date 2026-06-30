@@ -1,0 +1,2 @@
+/usr/bin/ar qc libItem.a CMakeFiles/Item.dir/Private/Item.cpp.o
+/usr/bin/ranlib libItem.a

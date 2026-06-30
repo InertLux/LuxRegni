@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUniverse.a CMakeFiles/Universe.dir/Private/Universe.cpp.o
+/usr/bin/ranlib libUniverse.a

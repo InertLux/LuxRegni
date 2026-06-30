@@ -1,0 +1,15 @@
+// state is injected as JSON from C++
+var character = state["character"]
+
+// Query Regni
+var currentHp = character["hp"]
+
+// Emit command to Dom
+Dom.command("damageCharacter", {
+    "id": character["id"],
+    "amount": 10
+})
+
+Dom.command("logEvent", {
+    "message": "Damage dealt: 10"
+})

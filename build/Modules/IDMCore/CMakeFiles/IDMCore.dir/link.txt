@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIDMCore.a CMakeFiles/IDMCore.dir/Private/IDMCore.cpp.o
+/usr/bin/ranlib libIDMCore.a

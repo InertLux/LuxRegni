@@ -1,0 +1,6 @@
+[submodule "ThirdParty/sokol"]
+	path = ThirdParty/sokol
+	url = git@github.com:InertLux/sokol.git
+[submodule "ThirdParty/imgui"]
+	path = ThirdParty/imgui
+	url = git@github.com:InertLux/imgui.git

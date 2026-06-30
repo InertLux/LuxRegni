@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIDMTemplates.a CMakeFiles/IDMTemplates.dir/Private/IDMPathRouter.cpp.o CMakeFiles/IDMTemplates.dir/Private/IDMTypes.cpp.o
+/usr/bin/ranlib libIDMTemplates.a

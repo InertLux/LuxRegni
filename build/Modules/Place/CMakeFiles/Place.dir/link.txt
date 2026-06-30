@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPlace.a CMakeFiles/Place.dir/Private/Place.cpp.o
+/usr/bin/ranlib libPlace.a

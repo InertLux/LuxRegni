@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwren_cpp.a CMakeFiles/wren_cpp.dir/Integration/src/WrenEngine.cpp.o
+/usr/bin/ranlib libwren_cpp.a

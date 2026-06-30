@@ -1,0 +1,74 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"folder-color.pathColors": [
+			{
+				"folderPath": "LuxRegni/Modules/IDMCore/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ffd700",
+				"badge": "⚙️"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/IDMTemplates/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ffd700",
+				"badge": "⚙️"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Item/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_d78700"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Object/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_d78700"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Place/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ff8787"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Region/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ff8787"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/RegniByte/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ffd700",
+				"badge": "⚙️"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Regnum/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ffd700",
+				"badge": "⚙️"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Scene/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ff8787"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Universe/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ff8787"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/World/",
+				"isFolderOnly": true,
+				"color": "foldercolorizer.color_ff8787"
+			},
+			{
+				"folderPath": "LuxRegni/Modules/Character/",
+				"color": "foldercolorizer.color_d78700"
+			}
+		]
+	}
+}

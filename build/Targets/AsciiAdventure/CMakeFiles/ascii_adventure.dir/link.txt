@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/ascii_adventure.dir/link.d CMakeFiles/ascii_adventure.dir/Private/main.cpp.o -o ../../bin/RegniByte/ascii_adventure  ../../libLuxRegni.a ../../ThirdParty/sqlite3/libsqlite3.a ../../ThirdParty/wren/libwren_cpp.a ../../ThirdParty/wren/libwren.a -lm -lgcc_s_asneeded -lgcc_s_asneeded

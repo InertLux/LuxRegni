@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRegniByte.a CMakeFiles/RegniByte.dir/Private/RegniByte.cpp.o
+/usr/bin/ranlib libRegniByte.a

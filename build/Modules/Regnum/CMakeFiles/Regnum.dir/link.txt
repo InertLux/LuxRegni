@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRegnum.a CMakeFiles/Regnum.dir/Private/RegniFactory.cpp.o CMakeFiles/Regnum.dir/Private/Commands/SystemCommandModule.cpp.o
+/usr/bin/ranlib libRegnum.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRegion.a CMakeFiles/Region.dir/Private/Region.cpp.o
+/usr/bin/ranlib libRegion.a

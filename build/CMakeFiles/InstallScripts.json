@@ -1,0 +1,22 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user/Source/LuxRegni/build/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/ThirdParty/wren/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/ThirdParty/sqlite3/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/ThirdParty/nlohmann/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/IDMTemplates/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/IDMCore/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Universe/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/World/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Region/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Place/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Character/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Object/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Item/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/RegniByte/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Modules/Regnum/cmake_install.cmake",
+		"/home/user/Source/LuxRegni/build/Targets/AsciiAdventure/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

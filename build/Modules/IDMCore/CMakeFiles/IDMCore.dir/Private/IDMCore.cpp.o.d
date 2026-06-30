@@ -1,0 +1,3 @@
+Modules/IDMCore/CMakeFiles/IDMCore.dir/Private/IDMCore.cpp.o: \
+ /home/user/Source/LuxRegni/Modules/IDMCore/Private/IDMCore.cpp \
+ /usr/include/stdc-predef.h
